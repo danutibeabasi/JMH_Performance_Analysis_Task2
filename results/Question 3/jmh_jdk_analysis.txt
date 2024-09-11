@@ -1,0 +1,34 @@
+JDK Performance Variability Analysis
+--------------------------------------------------------------
+
+JDK Version: 1.8.0_241
+Number of Benchmarks: 451
+Mean Score: 40305.21035104146
+Median Score: 0.5608218558464008
+Standard Deviation of Score: 706812.3245820722
+Mean 50th Percentile: 40408.621738956346
+Mean 90th Percentile: 40661.91396749642
+Mean 99th Percentile: 43417.7046840153
+Score distribution plot saved to: C:\Users\dauti\Downloads\jmh\data\jdk_1.8.0_241_score_distribution.png
+
+JDK Version: 11.0.6
+Number of Benchmarks: 95
+Mean Score: 474.8723403354299
+Median Score: 0.06418298856483055
+Standard Deviation of Score: 2026.9400823371986
+Mean 50th Percentile: 469.0765311516946
+Mean 90th Percentile: 509.12427381955786
+Mean 99th Percentile: 628.5987334777609
+Score distribution plot saved to: C:\Users\dauti\Downloads\jmh\data\jdk_11.0.6_score_distribution.png
+
+JDK Version: Unknown
+Number of Benchmarks: 40
+Mean Score: 789.5243330829153
+Median Score: 0.0026997094823903224
+Standard Deviation of Score: 1496.798882912941
+Mean 50th Percentile: 752.907808392225
+Mean 90th Percentile: 858.9946405839
+Mean 99th Percentile: 1023.7539990155499
+Score distribution plot saved to: C:\Users\dauti\Downloads\jmh\data\jdk_Unknown_score_distribution.png
+
+End of JDK Performance Variability Analysis

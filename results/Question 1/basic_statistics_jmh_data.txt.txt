@@ -1,0 +1,14 @@
+Descriptive Statistics for JMH Data:
+-----------------------------------
+Mean Score: 31150.757191083416
+Median Score: 0.27767009880746646
+Standard Deviation of Score: 620142.2297361996
+Minimum Score: 5.626012478982108e-08
+Maximum Score: 14913967.471547732
+-----------------------------------
+Percentile Analysis:
+0th Percentile (min): 29915.491661689794
+50th Percentile (median): 31226.906121270324
+90th Percentile: 31435.57984808379
+95th Percentile: 31647.485759316864
+99th Percentile: 33587.119201590285
